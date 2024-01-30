@@ -1,5 +1,5 @@
 ## project name: store-front
-### tools used : postgresSql 
+### tools used : postgresSql, typescript, nodejs, jasmine, js
    -> to be able to use this project follow these steps
 1) add a file in the root directory of the project called .env
 2) create 2 databases one for developing and the other for testing ...in psql terminal write these commands:
